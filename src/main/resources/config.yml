@@ -1,0 +1,12 @@
+unbreakable-blocks:
+  - monster_spawner
+  - trial_spawner
+  - vault
+
+torch-disabled-spawners:
+  - silverfish
+
+messages:
+  deny-break: "<#ff6969>This block is unbreakable"
+  bypass: "<#ffda54>You have broken an unbreakable block"
+  reload: "<#b7faa2>UnbreakableBlocks has been reloaded"

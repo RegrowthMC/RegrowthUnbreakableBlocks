@@ -1,5 +1,5 @@
 name: RegrowthUnbreakableBlocks
 version: ${version}+${commit}
-main: org.lushplugins.regrowthunbreakableblocks.RegrowthUnbreakableBlocks
+main: org.lushplugins.unbreakableblocks.UnbreakableBlocks
 api-version: '1.21'
 github-repo: RegrowthMC/RegrowthUnbreakableBlocks
